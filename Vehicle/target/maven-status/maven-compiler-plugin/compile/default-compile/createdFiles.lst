@@ -1,0 +1,10 @@
+org\example\Transmission.class
+org\example\Wheel.class
+org\example\Engine.class
+org\example\MotorVehicle.class
+org\example\Vehicle.class
+org\example\Bus.class
+org\example\Truck.class
+org\example\Car.class
+org\example\Wagon.class
+org\example\Tire.class
